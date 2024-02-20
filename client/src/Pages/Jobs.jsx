@@ -119,7 +119,7 @@ const Jobs = () => {
         {isButtonClicked && (
         <section class="text-gray-400 body-font bg-gray-900">
         <div class="container px-5 mx-auto">
-            <h1 class="text-4xl font-medium title-font mb-10 text-purple-400 text-center font-mono">AVAIL SERVICES</h1>
+            <h1 class="text-4xl font-medium title-font mb-10 text-purple-400 text-center font-mono">Stake your tokens!</h1>
           <div className="flex flex-col flex-1 items-center justify-start w-full mf:mt-0 mt-10">
           <div className="p-5 sm:w-96 w-full flex flex-col justify-start items-center bg-purple-400 bg-opacity-20 rounded-lg mx-auto mb-20">
             <p class="leading-relaxed text-base text-lg text-gray-300 font-mono ">Staking Balance: {stakingBalance} mDAI</p>
